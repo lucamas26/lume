@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lume</string>
+    <string name="favorites">Preferite</string>
+    <string name="apps">App</string>
+    <string name="more_apps">Tutte le app</string>
+    <string name="network">Rete</string>
+    <string name="settings">Impostazioni</string>
+    <string name="pin">Aggiungi alle preferite</string>
+    <string name="unpin">Rimuovi dalle preferite</string>
+    <string name="move_earlier">Sposta indietro</string>
+    <string name="move_later">Sposta avanti</string>
+    <string name="hide">Nascondi</string>
+    <string name="app_info">Info app</string>
+    <string name="uninstall">Disinstalla</string>
+    <string name="show_hidden">Mostra app nascoste (%d)</string>
+    <string name="cannot_open">Impossibile aprire</string>
+</resources>
